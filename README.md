@@ -7,7 +7,7 @@ Develop a simple image encryption tool using pixel manipulation. You can perform
 #### Algorithm
 - ### **Algorithm for Image Encryption/Decryption**
 
-1. start
+1. **start**
 2. **Input Key**
 3. **Open Image**
 4. **Convert Key to Seed**
